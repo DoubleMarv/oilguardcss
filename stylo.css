@@ -1,0 +1,55 @@
+/********************/
+/*** blue #3788c8 *****/
+/*** hometitles *****/
+/********************/
+.home--welcometitles h1{
+color: #3788c8;
+}
+/********************/
+/*** home fourboxes *****/
+/********************/
+.homepage-fourboxes{}
+
+.homepage-fourboxes .homepage-fourboxes-box{}
+
+/********************/
+/*** homepage-threetabs *****/
+/********************/
+
+.homepage-threetabs{}
+
+.homepage-threetabs .threetabs-tabs ul{
+display: table;
+width: 100%;
+}
+.homepage-threetabs .threetabs-tabs ul li{
+		list-style-type: none !important;
+display: table-cell;
+width: 33.3%;
+text-align: center;
+font-size: 1.3rem;
+}
+.homepage-threetabs .threetabs-tabs ul li a{
+color: #3788c8 !important;
+font-size: 1.5em;
+text-transform: uppercase;
+}
+
+.homepage-threetabs .hideblock{
+display:none;
+}
+
+.threetabs-blocks ul li{
+			list-style-type: none !important;
+}
+
+.homepage-threetabs .outerblock{
+display: inline-flex;
+}
+.homepage-threetabs .imageblockmain{
+width: 100%;
+}
+.homepage-threetabs .imageblockmain .imageblock,
+.homepage-threetabs .imageblockmain .textblock{
+width: 50%;
+}
