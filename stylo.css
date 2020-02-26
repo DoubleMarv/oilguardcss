@@ -48,6 +48,7 @@ display: inline-flex;
 }
 .homepage-threetabs .imageblockmain{
 width: 100%;
+display: flex;
 }
 .homepage-threetabs .imageblockmain .imageblock,
 .homepage-threetabs .imageblockmain .textblock{
